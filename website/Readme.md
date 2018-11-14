@@ -1,0 +1,1 @@
+Ky eshte nje Readme teks per projektin website
